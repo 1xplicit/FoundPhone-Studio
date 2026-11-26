@@ -3,7 +3,7 @@
   "id": "lost-phone-story",
   "title": "失踪第7天",
   "description": "陈思罕与左奇函的双手机悬疑",
-  "revision": 12,
+  "revision": 15,
   "phone": {
     "owner": "陈思罕",
     "date": "2024-11-08",
@@ -31,13 +31,18 @@
     "notes"
   ],
   "contacts": [
-    { "id": "chenjunming", "name": "陈浚铭", "phone": "13800000000", "bio": "同班同学，备注：吉米" },
-    { "id": "zuoqihan", "name": "左奇函", "phone": "13900000000", "bio": "高二，备注：千哥" },
-    { "id": "chenyiheng", "name": "陈奕恒", "phone": "13700000000", "bio": "国际部，备注：哼哥" },
-    { "id": "zhanghanrui", "name": "张函瑞", "phone": "13600000000", "bio": "高三，备注：Henry" },
-    { "id": "zhangguiyuan", "name": "张桂源", "phone": "13500000000", "bio": "高三，备注：龙哥" },
-    { "id": "yangbowen", "name": "杨博文", "phone": "13400000000", "bio": "高二，备注：博文" },
-    { "id": "wanglujie", "name": "王橹杰", "phone": "13300000000", "bio": "艺术生，备注：lulu" }
+    {
+      "id": "chenjunming",
+      "name": "陈浚铭",
+      "phone": "13800000000",
+      "bio": "同班同学，备注：吉米"
+    },
+    {
+      "id": "zuoqihan",
+      "name": "左奇函",
+      "phone": "13900000000",
+      "bio": "高二，备注：千哥"
+    }
   ],
   "chats": [
     {
@@ -46,30 +51,60 @@
       "title": "吉米",
       "participants": ["owner", "chenjunming"],
       "messages": [
-        { "id": "msg_1", "body": "浚铭，你今天又送我回家，是不是顺路？", "senderId": "owner" },
-        { "id": "msg_2", "body": "不是顺路。你别查左奇函了。", "senderId": "chenjunming" },
-        { "id": "msg_3", "body": "你是不是知道什么？", "senderId": "owner" }
-      ]
-    },
-    {
-      "id": "chat_wanglujie",
-      "app": "wechat",
-      "title": "lulu",
-      "participants": ["owner", "wanglujie"],
-      "messages": [
-        { "id": "msg_4", "body": "lulu，你那张海报照片最近删除里还有吗？", "senderId": "owner" },
-        { "id": "msg_5", "body": "有。但是时间不对，那天下午4点20，左奇函应该没在学校。你别把我扯进去。", "senderId": "wanglujie" }
+        {
+          "id": "msg_1",
+          "body": "浚铭，你今天又送我回家，是不是顺路？",
+          "senderId": "owner"
+        },
+        {
+          "id": "msg_2",
+          "body": "不是顺路。你别查左奇函了。",
+          "senderId": "chenjunming"
+        }
       ]
     }
   ],
   "content": {
-    "phone": [], "contacts": [], "photos": [], "camera": [], "safari": [], "notes": [],
-    "calendar": [], "mail": [], "clock": [], "reminders": [], "files": [], "music": [],
-    "maps": [], "weather": [], "wallet": [], "health": [], "find": [], "calculator": [],
-    "settings": [], "weibo": [], "redbook": [], "douyin": [], "bilibili": [], "alipay": [],
-    "taobao": [], "netease": [], "delivery": [], "forum": [], "instagram": [], "tiktok": [],
-    "twitter": [], "youtube": [], "snapchat": [], "facebook": [], "reddit": [], "spotify": [],
-    "netflix": [], "pinterest": [], "threads": [], "appstore": []
+    "phone": [],
+    "contacts": [],
+    "photos": [],
+    "camera": [],
+    "safari": [],
+    "notes": [],
+    "calendar": [],
+    "mail": [],
+    "clock": [],
+    "reminders": [],
+    "files": [],
+    "music": [],
+    "maps": [],
+    "weather": [],
+    "wallet": [],
+    "health": [],
+    "find": [],
+    "calculator": [],
+    "settings": [],
+    "weibo": [],
+    "redbook": [],
+    "douyin": [],
+    "bilibili": [],
+    "alipay": [],
+    "taobao": [],
+    "netease": [],
+    "delivery": [],
+    "forum": [],
+    "instagram": [],
+    "tiktok": [],
+    "twitter": [],
+    "youtube": [],
+    "snapchat": [],
+    "facebook": [],
+    "reddit": [],
+    "spotify": [],
+    "netflix": [],
+    "pinterest": [],
+    "threads": [],
+    "appstore": []
   },
   "variables": {},
   "events": [],
