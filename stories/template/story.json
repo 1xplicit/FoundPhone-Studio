@@ -5,7 +5,7 @@
   "description": "仅用于界面测试，不含剧情",
   "revision": 2,
   "phone": {
-    "owner": "机主",
+    "owner": "Jack Chen",
     "date": "2026-10-25",
     "time": "09:41",
     "battery": 94,
@@ -66,9 +66,6 @@
     "bilibili",
     "alipay",
     "taobao",
-    "netease",
-    "delivery",
-    "forum",
     "whatsapp",
     "instagram",
     "tiktok",
@@ -80,17 +77,14 @@
     "snapchat",
     "facebook",
     "messenger",
-    "reddit",
     "spotify",
     "netflix",
-    "pinterest",
     "threads",
-    "kakao"
   ],
   "contacts": [
     {
       "id": "test-contact",
-      "name": "测试联系人",
+      "name": "千哥",
       "phone": "",
       "bio": "这是一条测试内容。"
     }
@@ -106,16 +100,16 @@
       ],
       "messages": [
         {
-          "id": "test-message-messages",
-          "body": "这是一条测试消息。",
-          "senderId": "test-contact"
+          "id": "陈浚铭",
+          "body": "你在哪里",
+          "senderId": "Jeson"
         }
       ]
     },
     {
       "id": "test-chat-wechat",
       "app": "wechat",
-      "title": "测试会话",
+      "title": "龙哥",
       "participants": [
         "owner",
         "test-contact"
