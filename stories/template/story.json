@@ -3,7 +3,7 @@
   "id": "jack-phone-story",
   "title": "失踪第15天",
   "description": "陈思罕主用手机",
-  "revision": 40,
+  "revision": 41,
   "phone": {
     "owner": "陈思罕",
     "date": "2026-11-25",
@@ -49,24 +49,24 @@
       "title": "酒(8)",
       "participants": ["owner", "chenjunming", "zuoqihan", "chenyiheng", "yangbowen", "zhanghanrui", "zhangguiyuan", "wanglujie"],
       "messages": [
-        { "id": "g1", "timestamp": "10-15 22:00", "body": "今晚老地方 Livehouse，卡座我订好了。", "senderId": "zhangguiyuan" },
-        { "id": "g2", "timestamp": "10-15 22:05", "body": "龙哥阔气。", "senderId": "wanglujie" },
-        { "id": "g3", "timestamp": "10-15 22:10", "body": "你们都去吗。", "senderId": "owner" },
-        { "id": "g4", "timestamp": "10-15 22:12", "body": "左奇函最近家里事多，不一定出得来。", "senderId": "chenyiheng" },
-        { "id": "g5", "timestamp": "10-15 22:15", "body": "去。别听 Jo 瞎说，我只是烦。", "senderId": "zuoqihan" },
-        { "id": "g6", "timestamp": "10-28 23:30", "body": "家里又在提去英国的事，真把我当个项目交接了。", "senderId": "zuoqihan" },
-        { "id": "g7", "timestamp": "10-28 23:35", "body": "出来喝点，别想那么多。", "senderId": "zhanghanrui" },
-        { "id": "g8", "timestamp": "10-28 23:40", "body": "有些事家里定了也没办法。", "senderId": "chenyiheng" },
-        { "id": "g9", "timestamp": "11-08 19:00", "body": "@陈思罕 生日快乐！今晚不醉不归！", "senderId": "zhangguiyuan" },
-        { "id": "g10", "timestamp": "11-08 19:05", "body": "生日快乐。", "senderId": "zhanghanrui" },
-        { "id": "g11", "timestamp": "11-08 19:10", "body": "生快。", "senderId": "wanglujie" },
-        { "id": "g12", "timestamp": "11-08 19:15", "body": "生日快乐。", "senderId": "chenyiheng" },
-        { "id": "g13", "timestamp": "11-08 23:30", "body": "抱歉，来晚了。生日快乐。", "senderId": "zuoqihan" },
-        { "id": "g14", "timestamp": "11-08 23:35", "body": "奇哥你脸色好差，没事吧？", "senderId": "owner" },
-        { "id": "g15", "timestamp": "11-08 23:40", "body": "没事，你们玩，我先走了。", "senderId": "zuoqihan" },
-        { "id": "g16", "timestamp": "11-12 10:00", "body": "左奇函这几天怎么没动静？", "senderId": "yangbowen" },
-        { "id": "g17", "timestamp": "11-12 10:10", "body": "可能是直接出国了吧，毕竟人家什么都不用愁。", "senderId": "wanglujie" },
-        { "id": "g18", "timestamp": "11-12 10:15", "body": "lulu你别乱说。", "senderId": "zhanghanrui" }
+        { "id": "g1", "body": "【10-15 22:00】今晚老地方 Livehouse，卡座我订好了。", "senderId": "zhangguiyuan" },
+        { "id": "g2", "body": "【10-15 22:05】龙哥阔气。", "senderId": "wanglujie" },
+        { "id": "g3", "body": "【10-15 22:10】你们都去吗。", "senderId": "owner" },
+        { "id": "g4", "body": "【10-15 22:12】左奇函最近家里事多，不一定出得来。", "senderId": "chenyiheng" },
+        { "id": "g5", "body": "【10-15 22:15】去。别听 Jo 瞎说，我只是烦。", "senderId": "zuoqihan" },
+        { "id": "g6", "body": "【10-28 23:30】家里又在提去英国的事，真把我当个项目交接了。", "senderId": "zuoqihan" },
+        { "id": "g7", "body": "【10-28 23:35】出来喝点，别想那么多。", "senderId": "zhanghanrui" },
+        { "id": "g8", "body": "【10-28 23:40】有些事家里定了也没办法。", "senderId": "chenyiheng" },
+        { "id": "g9", "body": "【11-08 19:00】@陈思罕 生日快乐！今晚喝起", "senderId": "zhangguiyuan" },
+        { "id": "g10", "body": "【11-08 19:05】生日快乐。", "senderId": "zhanghanrui" },
+        { "id": "g11", "body": "【11-08 19:10】生快。", "senderId": "wanglujie" },
+        { "id": "g12", "body": "【11-08 19:15】生日快乐。", "senderId": "chenyiheng" },
+        { "id": "g13", "body": "【11-08 23:30】抱歉，来晚了。生日快乐。", "senderId": "zuoqihan" },
+        { "id": "g14", "body": "【11-08 23:35】奇哥你脸色好差，没事吧？", "senderId": "owner" },
+        { "id": "g15", "body": "【11-08 23:40】没事，你们玩，我先走了。", "senderId": "zuoqihan" },
+        { "id": "g16", "body": "【11-12 10:00】左奇函这几天怎么没动静？", "senderId": "yangbowen" },
+        { "id": "g17", "body": "【11-12 10:10】可能是直接出国了吧，毕竟人家什么都不用愁。", "senderId": "wanglujie" },
+        { "id": "g18", "body": "【11-12 10:15】lulu你别乱说。", "senderId": "zhanghanrui" }
       ]
     },
     {
@@ -75,15 +75,15 @@
       "title": "吉米",
       "participants": ["owner", "chenjunming"],
       "messages": [
-        { "id": "m1", "timestamp": "10-20 19:30", "body": "今天数学笔记借我抄一下。", "senderId": "owner" },
-        { "id": "m2", "timestamp": "10-20 19:32", "body": "放你桌上了。", "senderId": "chenjunming" },
-        { "id": "m3", "timestamp": "10-30 01:00", "body": "不用绕路，我家很近的。", "senderId": "owner" },
-        { "id": "m4", "timestamp": "10-30 01:05", "body": "顺路。", "senderId": "chenjunming" },
-        { "id": "m5", "timestamp": "11-08 18:00", "body": "生日快乐。奶茶我放你桌洞里了。", "senderId": "chenjunming" },
-        { "id": "m6", "timestamp": "11-08 18:10", "body": "谢谢吉米，晚上酒吧见。", "senderId": "owner" },
-        { "id": "m7", "timestamp": "11-11 22:00", "body": "你是不是知道左奇函去哪了？他两天没回我了。", "senderId": "owner" },
-        { "id": "m8", "timestamp": "11-11 22:15", "body": "不知道。你别查了，他家那种情况，不是我们能管的。", "senderId": "chenjunming" },
-        { "id": "m9", "timestamp": "11-24 18:00", "body": "如果我明天没来晚自习，去南山画室找我。", "senderId": "owner" }
+        { "id": "m1", "body": "【10-20 19:30】今天数学笔记借我抄一下。", "senderId": "owner" },
+        { "id": "m2", "body": "【10-20 19:32】放你桌上了。", "senderId": "chenjunming" },
+        { "id": "m3", "body": "【10-30 01:00】不用绕路，我家很近的。", "senderId": "owner" },
+        { "id": "m4", "body": "【10-30 01:05】顺路。", "senderId": "chenjunming" },
+        { "id": "m5", "body": "【11-08 18:00】生日快乐。奶茶我放你桌洞里了。", "senderId": "chenjunming" },
+        { "id": "m6", "body": "【11-08 18:10】谢谢呀，晚上酒吧见。", "senderId": "owner" },
+        { "id": "m7", "body": "【11-11 22:00】你是不是知道左奇函去哪了？他两天没回我了。", "senderId": "owner" },
+        { "id": "m8", "body": "【11-11 22:15】不知道。你别查了，他家那种情况，不是我们能管的。", "senderId": "chenjunming" },
+        { "id": "m9", "body": "【11-24 18:00】如果我明天没来晚自习，去南山画室找我。", "senderId": "owner" }
       ]
     },
     {
@@ -92,12 +92,12 @@
       "title": "奇",
       "participants": ["owner", "zuoqihan"],
       "messages": [
-        { "id": "m10", "timestamp": "10-18 20:00", "body": "哥，你们高二的物理难吗？", "senderId": "owner" },
-        { "id": "m11", "timestamp": "10-18 20:10", "body": "还行吧。我没学过啊。", "senderId": "zuoqihan" },
-        { "id": "m12", "timestamp": "11-08 23:50", "body": "谢谢你今天来，早点休息。", "senderId": "owner" },
-        { "id": "m13", "timestamp": "11-10 08:00", "body": "哥，你今天来学校了吗？", "senderId": "owner" },
-        { "id": "m14", "timestamp": "11-12 16:00", "body": "奇哥你别吓我，回个消息。", "senderId": "owner" },
-        { "id": "m15", "timestamp": "11-15 23:00", "body": "左奇函，你到底在哪？", "senderId": "owner" }
+        { "id": "m10", "body": "【10-18 20:00】哥，你们高二的物理难吗？", "senderId": "owner" },
+        { "id": "m11", "body": "【10-18 20:10】还行吧。我没学过啊。", "senderId": "zuoqihan" },
+        { "id": "m12", "body": "【11-08 23:50】谢谢你今天来，早点休息。", "senderId": "owner" },
+        { "id": "m13", "body": "【11-10 08:00】哥，你今天来学校了吗？", "senderId": "owner" },
+        { "id": "m14", "body": "【11-12 16:00】你别吓我，回个消息。", "senderId": "owner" },
+        { "id": "m15", "body": "【11-15 23:00】左奇函，你到底在哪？", "senderId": "owner" }
       ]
     },
     {
@@ -106,10 +106,10 @@
       "title": "博文",
       "participants": ["owner", "yangbowen"],
       "messages": [
-        { "id": "m16", "timestamp": "11-16 18:00", "body": "博文哥，左奇函失踪那天，你看到他在哪了吗？", "senderId": "owner" },
-        { "id": "m17", "timestamp": "11-16 18:30", "body": "我去查了。他最后出现不是周二，是周日晚上。", "senderId": "yangbowen" },
-        { "id": "m18", "timestamp": "11-16 18:32", "body": "在南山那个酒吧门口。他当时好像和别人吵架了。", "senderId": "yangbowen" },
-        { "id": "m19", "timestamp": "11-16 18:35", "body": "他以前也这样消失过，最后在南山。不过那次只有我知道。", "senderId": "yangbowen" }
+        { "id": "m16", "body": "【11-16 18:00】博文哥，左奇函失踪那天，你看到他在哪了吗？", "senderId": "owner" },
+        { "id": "m17", "body": "【11-16 18:30】我去查了。他最后出现不是周二，是周日晚上。", "senderId": "yangbowen" },
+        { "id": "m18", "body": "【11-16 18:32】在南山那个酒吧门口。他当时好像和别人吵架了。", "senderId": "yangbowen" },
+        { "id": "m19", "body": "【11-16 18:35】他以前也这样消失过，最后在南山。不过那次只有我知道。", "senderId": "yangbowen" }
       ]
     },
     {
@@ -118,11 +118,11 @@
       "title": "lulu",
       "participants": ["owner", "wanglujie"],
       "messages": [
-        { "id": "m20", "timestamp": "11-20 02:00", "body": "lulu，你那天在酒吧拍的照片，最近删除里还有吗？", "senderId": "owner" },
-        { "id": "m21", "timestamp": "11-20 02:15", "body": "有啊，怎么了？", "senderId": "wanglujie" },
-        { "id": "m22", "timestamp": "11-20 02:16", "body": "你别把我扯进去，我当时就是随手一拍。", "senderId": "wanglujie" },
-        { "id": "m23", "timestamp": "11-20 02:20", "body": "而且照片里背景是酒吧后门，那天晚上 11点半，左奇函按理说应该已经走了。", "senderId": "wanglujie" },
-        { "id": "m24", "timestamp": "11-20 02:25", "body": "你去找张函瑞吧，他那天也在，可能知道点什么。别说是我说的。", "senderId": "wanglujie" }
+        { "id": "m20", "body": "【11-20 02:00】lulu，你那天在酒吧拍的照片，最近删除里还有吗？", "senderId": "owner" },
+        { "id": "m21", "body": "【11-20 02:15】有啊，怎么了？", "senderId": "wanglujie" },
+        { "id": "m22", "body": "【11-20 02:16】你别把我扯进去，我当时就是随手一拍。", "senderId": "wanglujie" },
+        { "id": "m23", "body": "【11-20 02:20】而且照片里背景是酒吧后门，那天晚上 11点半，左奇函按理说应该已经走了。", "senderId": "wanglujie" },
+        { "id": "m24", "body": "【11-20 02:25】你去找张函瑞吧，他那天也在，可能知道点什么。别说是我说的。", "senderId": "wanglujie" }
       ]
     },
     {
@@ -131,10 +131,10 @@
       "title": "恒",
       "participants": ["owner", "chenyiheng"],
       "messages": [
-        { "id": "m25", "timestamp": "11-18 20:00", "body": "左奇函真的没联系你吗？", "senderId": "owner" },
-        { "id": "m26", "timestamp": "11-18 20:30", "body": "他可能在生我的气。那天他过生日在酒吧，我不该那么说。", "senderId": "chenyiheng" },
-        { "id": "m27", "timestamp": "11-18 20:31", "body": "其实我不知道。", "senderId": "chenyiheng" },
-        { "id": "m28", "timestamp": "11-18 20:35", "body": "如果他有找你，告诉我。", "senderId": "chenyiheng" }
+        { "id": "m25", "body": "【11-18 20:00】恒哥，奇哥真的没联系你吗？", "senderId": "owner" },
+        { "id": "m26", "body": "【11-18 20:30】他可能在生我的气。那天他过生日在酒吧，我不该那么说。", "senderId": "chenyiheng" },
+        { "id": "m27", "body": "【11-18 20:31】我不知道。", "senderId": "chenyiheng" },
+        { "id": "m28", "body": "【11-18 20:35】如果他有找你，告诉我。", "senderId": "chenyiheng" }
       ]
     },
     {
@@ -143,9 +143,9 @@
       "title": "Henry",
       "participants": ["owner", "zhanghanrui"],
       "messages": [
-        { "id": "m29", "timestamp": "11-22 14:00", "body": "函瑞，你画室钥匙是不是在艺术楼？", "senderId": "owner" },
-        { "id": "m30", "timestamp": "11-22 14:10", "body": "在啊，怎么了？我今天没去学校。", "senderId": "zhanghanrui" },
-        { "id": "m31", "timestamp": "11-22 14:15", "body": "没事，我就问问。", "senderId": "owner" }
+        { "id": "m29", "body": "【11-22 14:00】Henry，你画室钥匙是不是在艺术楼？", "senderId": "owner" },
+        { "id": "m30", "body": "【11-22 14:10】在啊，怎么了？我今天没去学校。", "senderId": "zhanghanrui" },
+        { "id": "m31", "body": "【11-22 14:15】没事，我就问问。", "senderId": "owner" }
       ]
     }
   ],
