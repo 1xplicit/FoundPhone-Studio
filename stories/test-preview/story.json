@@ -3,7 +3,7 @@
   "id": "ui-test-phone-v2",
   "title": "失踪第7天",
   "description": "仅用于界面测试",
-  "revision": 3,
+  "revision": 4,
   "phone": {
     "owner": "陈思罕",
     "date": "2026-11-26",
